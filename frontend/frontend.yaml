@@ -1,0 +1,14 @@
+runtime: nodejs
+env: flex
+api_version: 1
+threadsafe: true
+service: nfspeed-frontend
+
+handlers:
+  - url: /dist
+    static_dir: /dist
+    secure: always
+
+skip_files:
+- yarn.lock
+

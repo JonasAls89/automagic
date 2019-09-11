@@ -1,0 +1,36 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:56885/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "SUBSCRIPTION_ID": "3dab4200-178a-4bf7-88eb-453e4658f469",
+        "SESAM_JWT": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NjA0MjA5OTYuMjQ2MjM1NCwiZXhwIjoxNTkyMDQyOTE4LCJ1c2VyX2lkIjoiNzM0MDIzNjUtMjg4OS00MzI5LTljNjctZmYwOGRiOWM5ZjRlIiwidXNlcl9wcm9maWxlIjp7ImVtYWlsIjoiam9uYXMuY2hyaXN0ZW5zZW5Ac2VzYW0uaW8iLCJuYW1lIjoiam9uYXMuY2hyaXN0ZW5zZW5Ac2VzYW0uaW8iLCJwaWN0dXJlIjoiaHR0cHM6Ly9zLmdyYXZhdGFyLmNvbS9hdmF0YXIvNWE1MTRmMTNhNTJlMjE2Yzc0N2IwZWZlNzJhNDAxZGI_cz00ODAmcj1wZyZkPWh0dHBzJTNBJTJGJTJGY2RuLmF1dGgwLmNvbSUyRmF2YXRhcnMlMkZqYS5wbmcifSwidXNlcl9wcmluY2lwYWwiOiJncm91cDpFdmVyeW9uZSIsInByaW5jaXBhbHMiOnsiM2RhYjQyMDAtMTc4YS00YmY3LTg4ZWItNDUzZTQ2NThmNDY5IjpbImdyb3VwOkFkbWluIl19LCJhcGlfdG9rZW5faWQiOiIwZjM3ZjAxZi05MTVjLTQ5NjEtODkyYS05OTI1ZGVhY2FkMmIifQ.dBsAa34OsZBNItIZJVbUCWwPRe7z1cWT5mm1DJ3JTZX3VFz0TUG7ZDO_pMPdfC0KHM-HoOhSyhwpFrform1PIr0UFTwPZfSz_7khSrehQGoUTkKXa4FBfgBTvGmnAunbWxTXguU3BCTUfCRtui8z6BWC8JEHrD_A4DLH6_1Pn-ZxYGj_n5J_iMUo1985WCe1js3jKq-ihsH6wv13Gvqg1v5bxAlXLu6Sb5IFja2Xc3o5-HeAFGhiwtTYqIn_ONo2xVSkZAgRuRibhkKvgkdyG7zkm4TI6Vbqlrm_js1rPE094D20ujgjgNIub2jTWdt3Shni6tMOfOnG9pYmeRBtuQ"
+      }
+    },
+    "Automagic.Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:56886/"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "environmentVariables": {},
+      "httpPort": 56886
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestSesamClient": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SUBSCRIPTION_ID": "",
+        "SESAM_JWT": ""
+      }
+    }
+  }
+}
