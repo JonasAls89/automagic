@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.CmdLine/Automagic.CmdLine.csproj": {}
+  },
+  "projects": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.CmdLine/Automagic.CmdLine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.CmdLine/Automagic.CmdLine.csproj",
+        "projectName": "Automagic.CmdLine",
+        "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.CmdLine/Automagic.CmdLine.csproj",
+        "packagesPath": "/Users/jonas.christensen/.nuget/packages/",
+        "outputPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.CmdLine/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonas.christensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/Automagic.Core.csproj": {
+                "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/Automagic.Core.csproj"
+              },
+              "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj": {
+                "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.56.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/Automagic.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/Automagic.Core.csproj",
+        "projectName": "Automagic.Core",
+        "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/Automagic.Core.csproj",
+        "packagesPath": "/Users/jonas.christensen/.nuget/packages/",
+        "outputPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonas.christensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.56.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj",
+        "projectName": "SesamNetCoreClient",
+        "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj",
+        "packagesPath": "/Users/jonas.christensen/.nuget/packages/",
+        "outputPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonas.christensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

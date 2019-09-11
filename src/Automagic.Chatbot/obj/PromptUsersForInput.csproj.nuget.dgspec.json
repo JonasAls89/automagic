@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/PromptUsersForInput.csproj": {}
+  },
+  "projects": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/PromptUsersForInput.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/PromptUsersForInput.csproj",
+        "projectName": "PromptUsersForInput",
+        "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/PromptUsersForInput.csproj",
+        "packagesPath": "/Users/jonas.christensen/.nuget/packages/",
+        "outputPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonas.christensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.4.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Recognizers.Text": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "Microsoft.Recognizers.Text.DateTime": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

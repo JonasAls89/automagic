@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj": {}
+  },
+  "projects": {
+    "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj",
+        "projectName": "SesamNetCoreClient",
+        "projectPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/SesamNetCoreClient.csproj",
+        "packagesPath": "/Users/jonas.christensen/.nuget/packages/",
+        "outputPath": "/Users/jonas.christensen/Documents/Microservices/automagic/src/SesamNetCoreClient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jonas.christensen/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

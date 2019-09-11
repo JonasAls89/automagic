@@ -1,0 +1,4 @@
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/obj/Debug/netcoreapp2.0/Automagic.Chatbot.csprojAssemblyReference.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/obj/Debug/netcoreapp2.0/Automagic.Chatbot.csproj.CoreCompileInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/obj/Debug/netcoreapp2.0/Automagic.Chatbot.AssemblyInfoInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Chatbot/obj/Debug/netcoreapp2.0/Automagic.Chatbot.AssemblyInfo.cs

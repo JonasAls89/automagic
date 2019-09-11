@@ -1,0 +1,9 @@
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/bin/Debug/netstandard2.0/Automagic.Core.deps.json
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/bin/Debug/netstandard2.0/Automagic.Core.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/bin/Debug/netstandard2.0/Automagic.Core.pdb
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.csprojAssemblyReference.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.csproj.CoreCompileInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.AssemblyInfoInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.AssemblyInfo.cs
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/Automagic.Core/obj/Debug/netstandard2.0/Automagic.Core.pdb

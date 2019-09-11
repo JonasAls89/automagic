@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Automagic.Service</name>
+    </assembly>
+    <members>
+        <member name="M:Automagic.Service.Controllers.AutomagicController.Get">
+            <summary>
+            Automagic service description
+            </summary>
+            <returns>Service description</returns>
+            <response code="200">Returns the ServiceDesription</response>
+            <response code="400">If the item is null</response>            
+        </member>
+        <member name="M:Automagic.Service.Controllers.AutomagicController.GetProjects">
+            <summary>
+            Returns a list of the projects managed by this service instance.
+            </summary>
+            <returns>The projects.</returns>
+            <response code="200">Returns the list of projects</response>
+        </member>
+        <member name="M:Automagic.Service.Controllers.AutomagicController.CreateProject(Automagic.Core.Project)">
+            <summary>
+            Creates a new project.
+            </summary>
+            <returns>The new project.</returns>
+            <param name="project">Project.</param>
+        </member>
+        <member name="T:Automagic.Service.Model.JobRequestDescription">
+            <summary>
+            Definition of request to start "automagic" job
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.dbHost">
+            <summary>
+            Hostname or IP for Database server we will get data from
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.dbName">
+            <summary>
+            Database name
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.Dbase">
+            <summary>
+            Database user
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.SesamJWT">
+            <summary>
+            Database user
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.SesamSubID">
+            <summary>
+            Database user
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.dbUser">
+            <summary>
+            Database user
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.MappingChoice">
+            <summary>
+            Database password
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.dbPassword">
+            <summary>
+            Database password
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.dbPort">
+            <summary>
+            Database port
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.sourceType">
+            <summary>
+            Source type ORACLE|ORACLE_TNS|MSSQL|MYSQL|POSTGRESQL
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.blacklistTables">
+            <summary>
+            List of tables to not inspect
+            </summary>
+        </member>
+        <member name="P:Automagic.Service.Model.JobRequestDescription.mode">
+            <summary>
+            In which mode job will be performed
+            </summary>
+        </member>
+    </members>
+</doc>

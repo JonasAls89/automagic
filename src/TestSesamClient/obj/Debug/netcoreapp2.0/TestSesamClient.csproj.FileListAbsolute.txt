@@ -1,0 +1,17 @@
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/TestSesamClient.deps.json
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/TestSesamClient.runtimeconfig.json
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/TestSesamClient.runtimeconfig.dev.json
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/TestSesamClient.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/TestSesamClient.pdb
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/SesamNetCoreClient.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/bin/Debug/netcoreapp2.0/SesamNetCoreClient.pdb
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.csprojAssemblyReference.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.csproj.CoreCompileInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.AssemblyInfoInputs.cache
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.AssemblyInfo.cs
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.csproj.CopyComplete
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.dll
+/Users/jonas.christensen/Documents/Microservices/automagic/src/TestSesamClient/obj/Debug/netcoreapp2.0/TestSesamClient.pdb
